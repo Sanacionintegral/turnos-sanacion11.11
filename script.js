@@ -1,4 +1,4 @@
-const API_URL = "https://script.google.com/macros/s/AKfycbxdZ8UttT9IS82S9cJmwPl2AQyAsIBruRnhwC-I2eIvW2JH9bk5NvTc13pSQReY_yM45A/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycbwe3KtS6BlLILPAmrHA05bynpDEtGOlh4sc2ydQ_CmUk8ryjF9ymJ8_RlHECEUQ4sUUtg/exec";
 
 const form = document.getElementById("turno-form");
 const nombreInput = document.getElementById("nombre");
